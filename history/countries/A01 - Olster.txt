@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 2
+mercantilism = 25
+technology_group = western
+religion = norse_pagan_reformed
+primary_culture = norse-gael_culture
+capital = 4121	# Ulster
+
+1423.2.14 = {
+	monarch = {
+		name = "Fjork"
+		adm = 4
+		dip = 1
+		mil = 6
+		regent = yes
+	}
+}
+

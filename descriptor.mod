@@ -1,0 +1,15 @@
+version="v0.0.1"
+tags={
+	"Alternative History"
+	"Events"
+	"Gameplay"
+	"Map"
+	"Missions And Decisions"
+	"Loading Screen"
+	"National Ideas"
+	"New Nations"
+	"Religion"
+	"Trade"
+}
+name="Pax Ignea"
+supported_version="v1.37.5.0"

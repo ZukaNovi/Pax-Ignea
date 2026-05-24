@@ -1,0 +1,19 @@
+#4119 - Sligo
+
+owner = A01
+controller = A01
+culture = norse-gael_culture
+religion = norse_pagan_reformed
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = naval_supplies
+base_manpower = 2
+capital = "Sligo"
+is_city = yes
+add_core = A01
+add_core = A11
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern

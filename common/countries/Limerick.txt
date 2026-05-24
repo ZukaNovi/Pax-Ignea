@@ -1,0 +1,65 @@
+#Country Name: Please seefilename.
+
+graphical_culture = westerngfx
+
+color = { 179 240 208 }
+
+revolutionary_colors = { 0 5 0 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	religious_ideas
+	spy_ideas
+	economic_ideas
+	quantity_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	prussian_uhlan
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Name_1" = 100
+	"Name_2" = 60
+	"Name_3" = 40
+	"Name_4" = 40
+	"Name_5" = 35
+	"Name_6" = 20
+	"Name_7" = 20
+	"Name_8" = 5
+	"Name_9" = 0
+	"Name_10" = 0
+
+}
+
+leader_names = {
+	Leader1
+	Leader2
+	Leader3
+	Leader4
+	Leader5
+	Leader6
+	Leader7
+}
+
+ship_names = {
+	Ship1 Ship2 Ship3 Ship4 Ship5
+	Ship6 Ship7 Ship8 Ship9 Ship10
+}

@@ -1,0 +1,9 @@
+government = republic
+add_government_reform = merchant_republic
+government_rank = 1
+mercantilism = 50
+technology_group = western
+religion = norse_pagan_reformed
+primary_culture = norse-gael_culture
+capital = 4944 # Wexford
+

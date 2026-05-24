@@ -1,0 +1,20 @@
+#4947 - Breifne
+
+owner = A01
+controller = A01
+culture = norse-gael_culture
+religion = norse_pagan_reformed
+hre = no
+base_tax = 2
+base_production = 2
+trade_goods = naval_suplies
+base_manpower = 4
+capital = "Breifne"
+is_city = yes
+add_core = A01
+add_core = A12
+add_core = A13
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
