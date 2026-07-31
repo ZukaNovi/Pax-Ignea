@@ -544,16 +544,27 @@ ulster_area = { #4
 	372 4121 4380 4950
 }
 
-kingdom_of_the_isles_area = { #3
-	253 4364 4365
+kingdom_of_the_isles_area = { #5
+	253 4364 4365 4962 4963
 }
 
 highlands_area = { #5
-	250 252 369 4110 4363
+	252 369 4110 4951 4952
+}
+
+speyside_area = { #4
+	251 4953 4954 4955
+}
+
+middle_corridor_area = { #4
+	250 4363 4956 4957
+}
+scottish_heartlands_area = { #4
+	248 249 4958 4959
 }
 
 lowlands_area = { #5
-	248 249 251 4361 4362
+	4361 4362 4960 4961
 }
 
 wales_area = { #4

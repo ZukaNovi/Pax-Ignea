@@ -1,0 +1,47 @@
+########################################
+#  Pax Ignea Pirate Republic Factions  #
+########################################
+
+pr_captain_council = {
+	monarch_power = ADM
+	always = yes
+
+	modifier = {
+		republican_tradition = 1
+		prestige = 0.5
+		global_tax_modifier = 0.05
+		stability_cost_modifier = -0.25
+		development_cost = -0.05
+		privateer_efficiency = -0.25
+	}
+}
+
+pr_privateers = {
+	monarch_power = DIP
+	always = yes
+
+	modifier = {
+		privateer_efficiency = 0.25
+		naval_tradition_from_battle = 0.2
+		naval_maintenance_modifier = -0.25
+		prestige_from_naval = 0.2
+		naval_morale = 0.2
+		light_ship_power = 0.1
+		global_sailors_modifier = 0.1
+	}
+}
+
+pr_black_skull_crew = {
+	monarch_power = MIL
+	always = yes
+
+	modifier = {
+		shock_damage = 0.1
+		land_morale = 0.1
+		prestige = -1
+		stability_cost_modifier = 0.33
+		republican_tradition = -1.5
+		diplomatic_reputation = -3
+		may_perform_slave_raid = yes
+	}
+}

@@ -34,7 +34,8 @@ europe_superregion = { #Western Europe
 	france_region
 	iberia_region
 	italy_region
-	british_isles_region
+	england_region
+	scotland_region
 	ireland_region
 	south_german_region
 	north_german_region

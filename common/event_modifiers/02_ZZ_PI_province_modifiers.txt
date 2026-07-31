@@ -1,0 +1,45 @@
+### PI PROVINCE MODIFIERS ###
+few_cumbrian_refugees = {
+	local_unrest = -1
+    local_production_efficiency = 0.05
+}
+sizeable_cumbrian_refugees = {
+    local_unrest = -2
+    local_production_efficiency = 0.10
+}
+overflowing_cumbrian_refugees = {
+    local_unrest = -3
+    local_production_efficiency = 0.20
+    local_prosperity_growth = -0.01
+}
+darryls_pirates = {
+    pr_black_skull_crew_influence = 0.05
+    province_trade_power_modifier = -0.1
+    local_prosperity_growth = -0.01
+    all_estate_loyalty_equilibrium = -0.025
+    picture = "evil_pirate"
+}
+captain_forlonas_pirates = {
+    pr_black_skull_crew_influence = 0.05
+    local_tax_modifier = -0.1
+    local_prosperity_growth = -0.01
+    inflation_reduction = -0.05
+    picture = "evil_pirate"
+}
+longneck_pirates = {
+    pr_black_skull_crew_influence = 0.05
+    local_production_efficiency = -0.1
+    local_prosperity_growth = -0.01
+    state_maintenance_modifier = 0.05
+    picture = "evil_pirate"
+}
+multicultural_existence = {
+    culture_conversion_cost = 50
+    culture_conversion_time = 50
+    local_unrest = -2
+    picture = "handshake"
+}
+norse-gael_cultural_proud = {
+    culture_conversion_cost = 0.10
+    culture_conversion_time = 0.25
+}

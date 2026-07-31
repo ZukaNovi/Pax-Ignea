@@ -5,11 +5,11 @@ mercantilism = 25
 technology_group = western
 religion = catholic
 primary_culture = irish
-capital = 373 # Pale
+capital = 4120 # Kildare
 
 1415.7.16 = {
 	monarch = {
-		name = "Connor"
+		name = "Connor VI"
 		adm = 3
 		dip = 5
 		mil = 3

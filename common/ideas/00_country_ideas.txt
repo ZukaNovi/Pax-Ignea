@@ -1,0 +1,46 @@
+# Do not change tags in here without changing every other reference to them.
+# Do not change tags in here without changing every other reference to them.
+# If adding new groups or ideas, make sure they are unique.
+
+A01_ideas = {
+	start = {
+		engagement_cost_modifier = 0.1
+		capture_ship_chance = 0.2
+	}
+	
+	bonus = {
+		governing_capacity_modifier = 0.1
+	}	
+
+	trigger = {
+		tag = A01
+	}
+	free = yes
+	
+	a01_frost_legion = {
+		infantry_shock = 1.5
+		artillery_shock = 1
+	}
+	a01_all_we_know_is_war = {
+		mil_advisor_cost = -0.2
+	}
+	a01_our_lands = {
+		core_creation = -0.1
+	}
+	a01_death_to_rebellious = {
+		harsh_treatment_cost = -0.25
+	}
+	a01_reputation_built_on_fear = {
+		prestige = 1
+		diplomatic_reputation = -1
+	}
+	a01_warmonger_culture = {
+		yearly_army_professionalism = 0.01
+		discipline = 0.025
+		land_morale = 0.075
+	}
+	a01_never_exhausted_for_a_fight = {
+		war_exhaustion = -0.10
+		recover_army_morale_speed = 0.20
+	}
+}

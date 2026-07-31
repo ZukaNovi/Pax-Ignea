@@ -1,0 +1,13 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_modifier_evil_pirate"
+		texturefile = "gfx//interface//modifier_evil_pirate.dds"
+	}
+	spriteType = {
+		name = "GFX_modifier_handshake"
+		texturefile = "gfx//interface//modifier_handshake.dds"
+	}
+
+
+}

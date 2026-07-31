@@ -1,0 +1,19 @@
+#4951 - Ross
+
+owner = C01
+controller = C01
+culture = gaelic_culture
+religion = norse_pagan_reformed
+hre = no
+base_tax = 1
+base_production = 3
+trade_goods = wool
+base_manpower = 2
+capital = "Ross"
+is_city = yes
+add_core = C01
+add_core = A22
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern

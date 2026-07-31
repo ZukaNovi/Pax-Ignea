@@ -1,0 +1,18 @@
+#4959 - Dunbarton
+
+owner = A21
+controller = A21
+culture = highland_scottish
+religion = catholic
+hre = no
+base_tax = 1
+base_production = 3
+trade_goods = wool
+base_manpower = 1
+capital = "Dunbarton"
+is_city = yes
+add_core = A21
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern

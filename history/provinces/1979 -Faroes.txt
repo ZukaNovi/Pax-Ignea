@@ -1,9 +1,9 @@
-#1979 - Färöarna
+#1979 - Fï¿½rï¿½arna
 
-owner = NOR
-controller = NOR 
-culture = icelandic
-religion = catholic
+owner = C01
+controller = C01
+culture = norwegian
+religion = norse_pagan_reformed
 hre = no
 base_tax = 1 
 base_production = 1
@@ -11,7 +11,7 @@ base_manpower = 1
 trade_goods = fish
 capital = "Torshavn"
 is_city = yes
-add_core = NOR
+add_core = C01
 
 
 

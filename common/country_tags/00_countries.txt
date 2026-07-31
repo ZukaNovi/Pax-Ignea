@@ -22,3 +22,14 @@ A15 = "countries/Offaly.txt"
 A16 = "countries/Cork.txt"
 A17 = "countries/Wexford.txt"
 A18 = "countries/Dublin.txt"
+A19 = "countries/Ireland.txt"
+#Scotland
+A20 = "countries/Mann.txt"
+A21 = "countries/Scotts.txt"
+A22 = "countries/Gaeldom.txt"
+A25 = "countries/Isles.txt"
+#England
+A23 = "countries/Norbanhymbra.txt"
+A24 = "countries/Merce.txt"
+#Scandinavia
+C01 = "countries/Norway.txt"

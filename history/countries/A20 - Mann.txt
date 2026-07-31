@@ -1,0 +1,8 @@
+government = republic
+add_government_reform = manx_pirate_republic_reform
+government_rank = 2
+mercantilism = 50
+technology_group = western
+religion = catholic
+primary_culture = manx_culture
+capital = 4365 # Mann

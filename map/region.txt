@@ -192,19 +192,27 @@ iberia_region = {
 
 
 
-british_isles_region = {
+england_region = {
 	areas = {
 		east_midlands_area
 		west_midlands_area
 		yorkshire_area
-		scottish_marches_area
 		wessex_area
 		home_counties_area
 		east_anglia_area
 		wales_area
+	}
+}
+
+scotland_region = {
+	areas = {
 		lowlands_area
 		highlands_area
+		speyside_area
 		kingdom_of_the_isles_area
+		middle_corridor_area
+		scottish_heartlands_area
+		scottish_marches_area
 	}
 }
 
