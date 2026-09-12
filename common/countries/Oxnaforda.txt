@@ -1,0 +1,68 @@
+#Country Name: Please seefilename.
+
+graphical_culture = westerngfx
+
+color = { 93 113 132 }
+
+revolutionary_colors = { 0 5 0 }
+
+historical_idea_groups = {
+	aristocratic_Ideas
+	exploration_ideas
+	economic_ideas
+	defensive_ideas
+	offensive_ideas
+	religious_ideas
+	trade_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	prussian_uhlan
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Æthelstan" = 100
+	"Leofric" = 60
+	"Cynewulf" = 40
+	"Wulfric" = 40
+	"Eadweard" = 35
+	"Oswald" = 20
+	"Sigeberht" = 20
+	"Dunstan" = 5
+	"Ealdred" = 0
+	"Hereward" = 0
+
+}
+
+leader_names = {
+	Byrhtnoth
+	Æthelflæd
+	Ulfcytel
+	Penda
+	Hereward
+	Herebeorht
+	Sigehere
+	Wigheard
+	Eadwig
+	Garoald
+}
+
+ship_names = {
+	Sǣ-Wudu Bunden-Stefna Wæter-Hears Sǣgenga Hringedstefna
+	Sigeflota Garsǣwulf Æðelbāt Brimhafoc Fȳrdraca
+}

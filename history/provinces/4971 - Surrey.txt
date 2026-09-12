@@ -1,0 +1,21 @@
+#4971 - Surrey
+
+owner = A45
+controller = A45
+culture = english
+religion = catholic
+hre = no
+base_tax = 4
+base_production = 6
+trade_goods = grain
+base_manpower = 6
+capital = "Surrey"
+is_city = yes
+add_core = A45
+center_of_trade = 1
+extra_cost = 8
+
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern

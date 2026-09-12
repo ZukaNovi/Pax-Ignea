@@ -1,0 +1,19 @@
+#4975 - Middlesex
+
+owner = A39
+controller = A39
+culture = middel_seaxe_culture
+religion = catholic
+hre = no
+base_tax = 5
+base_production = 3
+trade_goods = fur
+base_manpower = 2
+capital = "Middlesex"
+is_city = yes
+add_core = A39
+
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern

@@ -559,6 +559,7 @@ speyside_area = { #4
 middle_corridor_area = { #4
 	250 4363 4956 4957
 }
+
 scottish_heartlands_area = { #4
 	248 249 4958 4959
 }
@@ -567,36 +568,52 @@ lowlands_area = { #5
 	4361 4362 4960 4961
 }
 
-wales_area = { #4
-	241 242 4366 4369
+north_wales_area = { #4
+	242 4977 4980 4983
 }
 
-scottish_marches_area = { #4
-	246 247 244 4375
+cornovia_area = { #5
+	240 4366 4967 4979 4981
 }
 
-yorkshire_area = { #4
-	245 4367 4368 4785
+south_wales_area = { #5
+	241 4369 4978 4982 4984
+}
+
+scottish_marches_area = { #5
+	246 247 4964 4965 4986
+}
+
+lancastershire_area = { #5
+	244 1861 4372 4375 4987
+}
+
+yorkshire_area = { #5
+	245 4367 4368 4785 4988
 }
 
 west_midlands_area = { #3
-	239 240 4372
+	239 4968 4974
 }
 
-east_midlands_area = { #3
-	243 1861 4376
+east_midlands_area = { #5
+	243 4376 4370 4966 4985
 }
 
 wessex_area = { #5
-	233 234 4130 4373 4374
+	233 4130 4373 4374 4969
+}
+
+sussex_area = { #5
+	234 235 4371 4971 4976
 }
 
 home_counties_area = { #4
-	235 236 237 4371 
+	236 237 4970 4975
 }
 
-east_anglia_area = { #3
-	238 1860 4370
+east_anglia_area = { #4
+	238 1860 4972 4973
 }
 
 ########################################

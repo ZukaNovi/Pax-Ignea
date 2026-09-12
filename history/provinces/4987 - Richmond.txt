@@ -1,0 +1,19 @@
+#4987 - Richmond
+
+owner = A29
+controller = A29
+culture = nordanhymbre_culture
+religion = catholic
+hre = no
+base_tax = 2
+base_production = 1
+trade_goods = flower
+base_manpower = 1
+capital = "Richmond"
+is_city = yes
+add_core = A29
+
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern

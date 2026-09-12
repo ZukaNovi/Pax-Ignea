@@ -460,7 +460,18 @@ scandinavian = { #Nordic
 	#country = { land_forcelimit_modifier = 0.25}
 	#province = { local_build_cost = -0.10 }
 
-
+	danelander_culture = {
+		primary = A31
+		dynasty_names = { 
+			"Dynasty_1" "Dynasty_2" "Finnlean"
+		}
+		male_names = {
+			Male_1 Male_2 Male_3 Male_4 Male_5
+		}
+		female_names = {
+			Female_1 Female_2 Female_3 Female_4 Female_5
+		}
+	}
 	swedish = {
 		primary = SWE
 		
@@ -857,7 +868,18 @@ british	= {
 
 anglo-saxon = {
 	graphical_culture = westerngfx
-
+	lloegrian_culture = {
+		primary = A46
+		male_names = {
+			male1 male2 male3 male4 male5
+		}
+		female_names = {
+			female1 female2 female3 female4 female5
+		}
+		dynasty_names = {
+			"dynasty1" "dynasty2" "dynasty3" "dynasty4" "dynasty5"
+		}
+	}
 	scyttisc_culture = {
 		primary = A21
 		male_names = {
@@ -870,8 +892,153 @@ anglo-saxon = {
 			"dynasty1" "dynasty2" "dynasty3" "dynasty4" "dynasty5"
 		}
 	}
+	norfolk_culture = {
+		primary = A26
+		male_names = {
+			male1 male2 male3 male4 male5
+		}
+		female_names = {
+			female1 female2 female3 female4 female5
+		}
+		dynasty_names = {
+			"dynasty1" "dynasty2" "dynasty3" "dynasty4" "dynasty5"
+		}
+	}
+	suffolk_culture = {
+		primary = A55
+		male_names = {
+			male1 male2 male3 male4 male5
+		}
+		female_names = {
+			female1 female2 female3 female4 female5
+		}
+		dynasty_names = {
+			"dynasty1" "dynasty2" "dynasty3" "dynasty4" "dynasty5"
+		}
+	}
+	middel_seaxe_culture = {
+		primary = A39
+		male_names = {
+			male1 male2 male3 male4 male5
+		}
+		female_names = {
+			female1 female2 female3 female4 female5
+		}
+		dynasty_names = {
+			"dynasty1" "dynasty2" "dynasty3" "dynasty4" "dynasty5"
+		}
+	}
+	sud_seaxe_culture = {
+		primary = A40
+		male_names = {
+			male1 male2 male3 male4 male5
+		}
+		female_names = {
+			female1 female2 female3 female4 female5
+		}
+		dynasty_names = {
+			"dynasty1" "dynasty2" "dynasty3" "dynasty4" "dynasty5"
+		}
+	}
+	west_seaxe_culture = {
+		primary = A34
+		male_names = {
+			male1 male2 male3 male4 male5
+		}
+		female_names = {
+			female1 female2 female3 female4 female5
+		}
+		dynasty_names = {
+			"dynasty1" "dynasty2" "dynasty3" "dynasty4" "dynasty5"
+		}
+	}
+	merce_culture = {
+		primary = A24
+		male_names = {
+			male1 male2 male3 male4 male5
+		}
+		female_names = {
+			female1 female2 female3 female4 female5
+		}
+		dynasty_names = {
+			"dynasty1" "dynasty2" "dynasty3" "dynasty4" "dynasty5"
+		}
+	}
+	oxnaford_culture = {
+		primary = A38
+		male_names = {
+			male1 male2 male3 male4 male5
+		}
+		female_names = {
+			female1 female2 female3 female4 female5
+		}
+		dynasty_names = {
+			"dynasty1" "dynasty2" "dynasty3" "dynasty4" "dynasty5"
+		}
+	}
+	kentish_culture = {
+		primary = A35
+		male_names = {
+			male1 male2 male3 male4 male5
+		}
+		female_names = {
+			female1 female2 female3 female4 female5
+		}
+		dynasty_names = {
+			"dynasty1" "dynasty2" "dynasty3" "dynasty4" "dynasty5"
+		}
+	}
 }
-
+nordhymbrisc = {
+	nordanhymbre_culture = {
+		primary = A29
+		dynasty_names = { 
+			"Dynasty_1" "Dynasty_2" "Finnlean"
+		}
+		male_names = {
+			Male_1 Male_2 Male_3 Male_4 Male_5
+		}
+		female_names = {
+			Female_1 Female_2 Female_3 Female_4 Female_5
+		}
+	}
+	nordymbrar_culture = {
+		primary = A30
+		dynasty_names = { 
+			"Dynasty_1" "Dynasty_2" "Finnlean"
+		}
+		male_names = {
+			Male_1 Male_2 Male_3 Male_4 Male_5
+		}
+		female_names = {
+			Female_1 Female_2 Female_3 Female_4 Female_5
+		}
+	}
+	hredcynn_culture = {
+		primary = A28
+		dynasty_names = { 
+			"Dynasty_1" "Dynasty_2" "Finnlean"
+		}
+		male_names = {
+			Male_1 Male_2 Male_3 Male_4 Male_5
+		}
+		female_names = {
+			Female_1 Female_2 Female_3 Female_4 Female_5
+		}
+	}
+	northumbra_culture = {
+		primary = A23
+		dynasty_names = { 
+			"Dynasty_1" "Dynasty_2" "Finnlean"
+		}
+		male_names = {
+			Male_1 Male_2 Male_3 Male_4 Male_5
+		}
+		female_names = {
+			Female_1 Female_2 Female_3 Female_4 Female_5
+		}
+	}
+}
 celtic	= {
 	graphical_culture = westerngfx
 	
@@ -1180,7 +1347,7 @@ celtic	= {
 		}
 	}
 	cornish = {
-		primary = CRN
+		primary = A36
 		dynasty_names = { 
 			Aberffraw Dinefwr Mathrafal Gwynedd Tudor Kernew "of Cornwall" Glyndwr "Ternyllwg" 
 			#CK2

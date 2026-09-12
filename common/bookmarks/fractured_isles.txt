@@ -1,0 +1,26 @@
+bookmark =
+{
+	name = "FRACTURED_ISLES"
+	desc = "FRACTURED_ISLES_DESC"
+	date = 1444.11.11
+	
+	center = 4365
+	default = yes
+	
+	country = A01
+	country = A03
+	country = A20
+	country = A26
+	country = A28
+	country = A33
+	country = A39
+	country = A38
+	country = A47
+	country = A54
+
+	easy_country = A02
+	easy_country = A21
+	easy_country = A31
+	easy_country = A45
+	easy_country = A46
+}

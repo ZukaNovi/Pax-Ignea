@@ -1,0 +1,20 @@
+#4973 - Suffolk
+
+owner = A26
+controller = A26
+culture = suffolk_culture
+religion = catholic
+hre = no
+base_tax = 2
+base_production = 3
+trade_goods = copper
+base_manpower = 2
+capital = "Suffolk"
+is_city = yes
+add_core = A26
+add_core = A55
+
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern

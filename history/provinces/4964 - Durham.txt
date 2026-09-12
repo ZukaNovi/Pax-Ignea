@@ -1,0 +1,19 @@
+#4964 - Durham
+
+owner = A28
+controller = A28
+culture = hredcynn_culture
+religion = catholic
+hre = no
+base_tax = 3
+base_production = 6
+trade_goods = fish
+base_manpower = 2
+add_core = A28
+capital = "Durham"
+is_city = yes
+
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern

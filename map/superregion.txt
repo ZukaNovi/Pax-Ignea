@@ -27,6 +27,17 @@ china_superregion = {
 	south_china_region
 }
 
+british_isles_superregion = {
+
+	restrict_charter		# harder to get TC here.
+
+	ireland_region
+	scotland_region
+	england_region
+	northumbria_region
+	wales_region
+}
+
 europe_superregion = { #Western Europe
 
 	restrict_charter		# harder to get TC here.
@@ -34,9 +45,6 @@ europe_superregion = { #Western Europe
 	france_region
 	iberia_region
 	italy_region
-	england_region
-	scotland_region
-	ireland_region
 	south_german_region
 	north_german_region
 	scandinavia_region

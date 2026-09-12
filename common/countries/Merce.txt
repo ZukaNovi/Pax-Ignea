@@ -7,13 +7,13 @@ color = { 133 10 41 }
 revolutionary_colors = { 0 5 0 }
 
 historical_idea_groups = {
+	aristocratic_Ideas
+	exploration_ideas
+	economic_ideas
 	defensive_ideas
 	offensive_ideas
-	trade_ideas
 	religious_ideas
-	spy_ideas
-	economic_ideas
-	quantity_ideas
+	trade_ideas
 	diplomatic_ideas
 }
 
@@ -36,30 +36,33 @@ historical_units = {
 }
 
 monarch_names = {
-	"Name_1" = 100
-	"Name_2" = 60
-	"Name_3" = 40
-	"Name_4" = 40
-	"Name_5" = 35
-	"Name_6" = 20
-	"Name_7" = 20
-	"Name_8" = 5
-	"Name_9" = 0
-	"Name_10" = 0
+	"Æthelstan" = 100
+	"Leofric" = 60
+	"Cynewulf" = 40
+	"Wulfric" = 40
+	"Eadweard" = 35
+	"Oswald" = 20
+	"Sigeberht" = 20
+	"Dunstan" = 5
+	"Ealdred" = 0
+	"Hereward" = 0
 
 }
 
 leader_names = {
-	Leader1
-	Leader2
-	Leader3
-	Leader4
-	Leader5
-	Leader6
-	Leader7
+	Byrhtnoth
+	Æthelflæd
+	Ulfcytel
+	Penda
+	Hereward
+	Herebeorht
+	Sigehere
+	Wigheard
+	Eadwig
+	Garoald
 }
 
 ship_names = {
-	Ship1 Ship2 Ship3 Ship4 Ship5
-	Ship6 Ship7 Ship8 Ship9 Ship10
+	Sǣ-Wudu Bunden-Stefna Wæter-Hears Sǣgenga Hringedstefna
+	Sigeflota Garsǣwulf Æðelbāt Brimhafoc Fȳrdraca
 }
